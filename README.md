@@ -4,6 +4,8 @@
 基於free版本的coreui改寫而來，可搭配Jmeter壓測平台後端使用
 
 主要功能為：管理Jmeter檔案與其執行情況
+![image](https://github.com/Talence0329/stress_tool/blob/master/jmeter_edit.png)
+![image](https://github.com/Talence0329/stress_tool/blob/master/work_exec.png)
 
 ## 頁面
 分為兩個頁面，Jmeter管理、工作管理
